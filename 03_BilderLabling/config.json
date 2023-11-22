@@ -1,0 +1,7 @@
+{
+    "source_image_path": "C:/LEHRE_Repos/AI_Challenge/published_notebooks/BilderLabeling/sampleData",
+    "output_folder_path": "./labeledData",
+    "stop_output_folder_path": "/stopSigns",
+    "no_stop_output_folder_path": "/noStopSigns",
+    "history_size": 100
+}
