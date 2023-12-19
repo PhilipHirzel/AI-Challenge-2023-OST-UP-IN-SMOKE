@@ -10,12 +10,12 @@ This repository contains our project for the AI Challenge 2023 hosted by OST, fo
 - **Prizes:** Digitec vouchers worth CHF 1000, CHF 500, and CHF 250 for winners.
 
 ## Schedule
-- **Kickoff:** October 26, 2024 - Introduction to AI programming and team formation.
-- **Intermediate Event:** November 16, 2024 - Object-Detection Competition.
-- **Final Challenge:** December 7, 2024 - Teams compete against each other and the OST-JetRacer.
+- **Kickoff:** October 26, 2023 - Introduction to AI programming and team formation.
+- **Intermediate Event:** November 16, 2023 - Object-Detection Competition.
+- **Final Challenge:** December 7, 2023 - Teams compete against each other and the OST-JetRacer.
 
 ## Participation
-- **Registration Deadline:** October 6, 2024
+- **Registration Deadline:** October 6, 2023
 - **Registration Fee:** CHF 50
 - **Skills:** Programming knowledge is helpful but not required.
 
